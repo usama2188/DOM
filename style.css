@@ -1,0 +1,29 @@
+.container{
+    background-color: aquamarine;
+    border: solid black 1px;
+    height: 90px;
+}
+button{
+    margin-top: 10px;
+}
+.para{
+    background-color: blueviolet;
+    border:solid red 1px;
+}
+.primary{
+    border: solid orange 1px;
+    height: 70px;
+    background-color: paleturquoise;
+}
+
+.newclass{
+    background-color: salmon;
+}
+#table{
+    margin: auto;
+    width: 10rem;
+}
+
+#table td{
+    border: 1px solid black;
+}
